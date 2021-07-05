@@ -19,3 +19,25 @@ background-color: blanchedalmond;
 body{
     background-color: coral;
 }
+.header_div{
+    color:cadetblue;
+    background-color:blanchedalmond;
+    border: solid 3px black;
+    border-radius: 50px;
+    width: fit-content;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.results {
+    background-color: blanchedalmond;
+    padding: 30px;
+    padding-left: 15px;
+    
+    margin-bottom: 50px;
+    margin-left: 1000px;
+    border-radius: 50px;
+    border: solid black 3px;
+    text-align: left;
+    
+    position: fixed;
+}
