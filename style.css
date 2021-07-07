@@ -30,14 +30,7 @@ body{
 }
 .results {
     background-color: blanchedalmond;
-    padding: 30px;
-    padding-left: 15px;
-    
-    margin-bottom: 50px;
-    margin-left: 1000px;
+    border: burlywood 4px solid;
     border-radius: 50px;
-    border: solid black 3px;
-    text-align: left;
-    
-    position: fixed;
+    margin-bottom: 100px;
 }
